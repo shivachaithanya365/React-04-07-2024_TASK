@@ -1,0 +1,2 @@
+# React-04-07-2024_TASK
+Filtering FAKESTORE API
